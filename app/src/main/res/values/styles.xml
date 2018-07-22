@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name = "BlueText" parent ="TextAppearance.AppCompat">
+        <item name = "android:textColor">@color/reddishColorText</item>
+        <item name ="android:textSize">36sp</item>
+        <item name ="android:layout_margin">8dp</item>
+    </style>
+
 </resources>
